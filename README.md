@@ -1,4 +1,4 @@
-# [Session bots directory](https://sessionbots.directory)
+# [bot-history-directory](https://sessionbots.directory)
 
 Session bots directory website is a place to discover new bots created by Session developers community. Visit the website: <https://sessionbots.directory>
 
