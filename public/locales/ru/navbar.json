@@ -1,0 +1,21 @@
+{
+  "new": "Новые боты",
+  "new_short": "Новые",
+  "popular": "Популярные боты",
+  "popular_short": "Популярные",
+  "search": {
+    "placeholder": "Поиск ботов..."
+  },
+  "auth": {
+    "login": "Войти в аккаунт",
+    "login_short": "Войти",
+    "logout": "Выйти",
+    "logout_short": "Выйти",
+    "signup": "Зарегистрироваться",
+    "signup_short": "Регистрация"
+  },
+  "manage": {
+    "title": "Панель управления",
+    "title_short": "Мои боты"
+  }
+}

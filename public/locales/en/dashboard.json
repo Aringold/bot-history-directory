@@ -1,0 +1,87 @@
+{
+  "title": "Dashboard",
+  "buttons": {
+    "add": "Add new bot",
+    "change_displayname": "Add/change displayed name",
+    "change_password": "Change password",
+    "delete_account": "Delete account"
+  },
+  "bots": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "add_description": "Add description",
+    "visibility": {
+      "public": "Опубликован",
+      "hidden": "Скрыт"
+    },
+    "update_error": "Error while updating bot",
+    "update_success": "Updated successfully",
+    "delete_success": "Bot deleted successfully",
+    "delete_error": "Error while deleting bot"
+  },
+  "add": {
+    "title": "Add bot",
+    "step1": {
+      "description": "To start, paste the Session ID of the account your bot is running on",
+      "submit": "Next"
+    },
+    "form_errors": {
+      "invalid_session_id": "Invalid session ID",
+      "required": "Required",
+      "name_too_long": "Name is too long",
+      "description_too_long": "Description is too long"
+    },
+    "fields": {
+      "name": "Name",
+      "description": "Description (optional)",
+      "checkbox1": "My bot is not about adult content or drugs",
+      "checkbox2": "My bot does not distribute materials protected by copyright",
+      "checkbox3": "My bot does not violate the laws and other rules of the site",
+      "checkbox4": "I understand that my bot will be automatically tested for violations and I do not plan to change the bot's theme after launch to cheat the moderation system",
+      "checkbox5": "I understand that my bot and my account can be deleted at any time without warning by the site moderators"
+    },
+    "step2": {
+      "description": "To verify that you are author of this bot, please add the following command",
+      "text1": "When someone sends this",
+      "text2": "it should reply with this",
+      "text3": "in under 1 second",
+      "submit": "Done, submit for check",
+      "invalid_response": "This is response from the bot we've got:",
+      "is_loading": "Testing your bot..."
+    }
+  },
+  "not_authorized": "You are not authorized to view this page",
+  "no_bots": "У вас нет ботов",
+  "form_errors": {
+    "unknown_error": "Unknown error",
+    "displayName_too_long": "Displayed name is too long",
+    "password_too_long": "Password is too long",
+    "display_name_not_safe": "Choose another displayed name",
+    "invalid_verification": "Invalid verification response"
+  },
+  "settings": {
+    "display_name": {
+      "title": "Displayed name",
+      "description": "This name will be displayed in the bot catalog instead of your username. Leave empty to disable display name and use your username instead",
+      "placeholder": "Displayed name (optional)",
+      "submit": "Save",
+      "cancel": "Cancel"
+    },
+    "password": {
+      "title": "Change password",
+      "description": "Leave empty to keep current password",
+      "placeholder": "New password",
+      "submit": "Save",
+      "cancel": "Cancel"
+    },
+    "delete_account": {
+      "title": "Delete account",
+      "description": "This will delete your account and all bots associated with it. This action is irreversible once you click 'Go ahead' button below.",
+      "submit": "Go ahead",
+      "cancel": "Cancel"
+    },
+    "edit_bot": {
+      "title": "Edit bot"
+    }
+  }
+}

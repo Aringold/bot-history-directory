@@ -1,0 +1,18 @@
+{
+  "new": "New bots",
+  "new_short": "New",
+  "popular": "Popular bots",
+  "popular_short": "Popular",
+  "search": {
+    "placeholder": "Search bots..."
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign up"
+  },
+  "manage": {
+    "title": "Open dashboard",
+    "title_short": "My bots"
+  }
+}

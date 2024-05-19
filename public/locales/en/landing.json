@@ -1,0 +1,26 @@
+{
+  "bots_online": "bots online",
+  "links": {
+    "new": {
+      "title": "Discover new bots",
+      "description": "Browse our directory of bots that were added recently"
+    },
+    "popular": {
+      "title": "Open popular bots",
+      "description": "Find popular bots that has most views"
+    },
+    "byo": {
+      "title": "Start building your own bot",
+      "description": "Explore documentation and tutorials to learn how to build your own bot"
+    },
+    "ads": {
+      "title": "Create your bot with no code",
+      "description": "Contact specialist to create Session bot with no programming skills"
+    }
+  },
+  "cta": {
+    "label": "Add your Session bot in 60 seconds:",
+    "placeholder": "Bot's Session ID",
+    "submit": "Next"
+  }
+}
